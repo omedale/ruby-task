@@ -1,3 +1,6 @@
+require 'rest-client'
+require 'json'
+
 class DiscrepancyDetector < ApplicationService
   def initialize
     @url = 'https://mockbin.org/bin/fcb30500-7b98-476f-810d-463a0b8fc3df'
