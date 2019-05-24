@@ -2,9 +2,11 @@
 `
 $ git clone https://github.com/omedale/ruby-task.git
 `
+
 `
 $ cd ruby-task
 `
+
 `
 $ bundle Install
 `
