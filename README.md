@@ -1,8 +1,9 @@
 # Installation
-- clone repo
-- cd into app folder
-- bundle Install
-
+`
+$ git clone https://github.com/omedale/ruby-task.git
+$ cd ruby-task
+$ bundle Install
+`
 ## Start app
 `
 $ ruby lib/app.rb
