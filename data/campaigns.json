@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "job_id": "24",
+        "status": "active",
+        "external_reference": "1",
+        "ad_description": "Software Engineer"
+    },
+    {
+        "id": "2",
+        "job_id": "27",
+        "status": "paused",
+        "external_reference": "2",
+        "ad_description": "Ruby Engineer"
+    },
+    {
+        "id": "2",
+        "job_id": "27",
+        "status": "deleted",
+        "external_reference": "3",
+        "ad_description": "Javascript Engineer"
+    }
+]
