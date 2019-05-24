@@ -10,4 +10,4 @@ class App < ApplicationService
   end
 end
 
-# App.get_campaign_discrepancies
+p App.get_campaign_discrepancies
