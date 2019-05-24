@@ -1,5 +1,5 @@
-require_relative 'application_service.rb'
-require_relative 'discrepancy_detector.rb'
+require_relative 'application_service'
+require_relative 'discrepancy_detector'
 
 class App
   def self.get_campaign_discrepancies
